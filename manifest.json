@@ -1,0 +1,11 @@
+{
+    "name": "Storm Portfolio",
+    "short_name": "Storm - instagram - github - facebook",
+    "description": "This is my simple portfolio",
+    "theme_color": "#fff",
+    "background_color": "white",
+    "display": "standalone",
+    "Scope": "./",
+    "start_url": "index.html",
+    "splash_pages": null
+  }
